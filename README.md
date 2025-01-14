@@ -1,3 +1,3 @@
 # git_journey
 
-##git init
+## git init
